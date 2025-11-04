@@ -3,7 +3,7 @@
 ## Welcome
 This is the public repository for the work and development of Ideomatics, The study of Ideas.  
 This is currently a theoretical and in development system and may change over time as it is developed.  
-Terms and language may change as needed for the system to develop.
+Terms and language may change.
 
 ---
 
@@ -34,9 +34,13 @@ There will be a more formal/analytical term for idea in the glossary
 
 ## Philosophy
 - Metaphysics
+- --
 - Epistemology
+- --
 - Ethics
+- --
 - Aesthetics
+- --
 
 ---
 
@@ -59,20 +63,19 @@ There will be a more formal/analytical term for idea in the glossary
 ---
 
 ## Things to do/look into
-- Ideomatic vs Ideonomy
+- Expand Repo
+- Add Example usage for Glossary
+- Create a list of key concepts/ideas
+- Create rough Outline of The Minimum Ideonomic Kernal
 
 ---
 
 ## Acknowledgements and Inspirations
 - Pirsigs MOQ  
 - Patrick Gunkels Ideonomy  
-- Daoism/Non-Dualism  
-- Socratic/Platonic thought?  
+- Daoism/Non-Dualism   
 - Hegel's Dialectic  
 - General ideas from a wide variety of fields and systems  
-- Defender and OMI for inspiring me to work on and share my ideas.
+- @DefenderOfBasic and The Open Memetics Institute for inspiring me to work on and share my ideas.
 
 ---
-
-## Disclaimer
-This is an early theoretical framework. Everything here may change as Ideomatics develops further.
