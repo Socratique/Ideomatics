@@ -9,7 +9,7 @@ Terms and language may change.
 
 ## What it is
 Ideomatics aims to broadly be a study of ideas, where ideas are considered basic units of cognition, understanding or meaning.
-It is Theory of Imagination, World Building, Model Construction, Divination from Potential(Ideomancy - subfield)
+It is Theory of Imagination, World Building, Model Construction, Divination from Potential(Ideomancy - subfield). Theory of Learning, Thinking, Theory Itself.
 
 The Core Goal of Ideomatics is to create a system and tools for better observing, understanding, investigating, generating and constructing Ideas.
 
