@@ -8,10 +8,11 @@ Terms and language may change.
 ---
 
 ## What it is
-Ideomatics aims to broadly be a study of ideas, where ideas are considered basic units of cognition, understanding or meaning.  
+Ideomatics aims to broadly be a study of ideas, where ideas are considered basic units of cognition, understanding or meaning.
+It is Theory of Imagination, World Building, Model Construction, Divination from Potential(Ideomancy - subfield)
+
 The Core Goal of Ideomatics is to create a system and tools for better observing, understanding, investigating, generating and constructing Ideas.
 
-One way I could describe Ideomatics, is it's like seeing ideas as atomic units, but every new compound is just an additional element on the periodic table.
 
 ---
 
@@ -26,7 +27,7 @@ Note: more may be added if realized. Any assumptions can be supported
 
 ## What is an idea?
 Broadly refers to being an Thing in your mind. One could also say thought, concept, knowledge, memory.  
-Ideomatics treats everything in perception as generally an idea, including what many may refer to as Qualia.
+Ideomatics treats everything in perception as generally an idea, including what many may refer to as Qualia. or Ideas are Qualia.
 
 There will be a more formal/analytical term for idea in the glossary
 
@@ -36,6 +37,8 @@ There will be a more formal/analytical term for idea in the glossary
 - create an adaptable but useful system to observe, investigate, generate and construct ideas.  
 - ideal form of this is a symbolic language that allows for cross consistent mapping and operation on ideas at high and low detail
 
+- otherwise concern is with mapping most common ideas and finding useful ideomatic tools
+
 ---
 
 ## Acknowledgements and Inspirations
@@ -44,6 +47,6 @@ There will be a more formal/analytical term for idea in the glossary
 - Daoism/Non-Dualism   
 - Hegel's Dialectic  
 - General ideas from a wide variety of fields and systems  
-- @DefenderOfBasic and The Open Memetics Institute for inspiring me to work on and share my ideas.
+- @DefenderOfBasic on Twitter and The Open Memetics Institute for inspiring me to work on and share my ideas.
 
 ---
