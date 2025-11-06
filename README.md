@@ -32,18 +32,6 @@ There will be a more formal/analytical term for idea in the glossary
 
 ---
 
-## Philosophy
-- Metaphysics
-- --
-- Epistemology
-- --
-- Ethics
-- --
-- Aesthetics
-- --
-
----
-
 ## What it aims to do
 - create an adaptable but useful system to observe, investigate, generate and construct ideas.  
 - ideal form of this is a symbolic language that allows for cross consistent mapping and operation on ideas at high and low detail
