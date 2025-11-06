@@ -9,7 +9,7 @@ Terms and language may change.
 
 ## What it is
 Ideomatics aims to broadly be a study of ideas, where ideas are considered basic units of cognition, understanding or meaning.  
-The Core Goal of Ideomatics is to create and system and tools for better observing, understanding, investigating, generating and constructing Ideas.
+The Core Goal of Ideomatics is to create a system and tools for better observing, understanding, investigating, generating and constructing Ideas.
 
 One way I could describe Ideomatics, is it's like seeing ideas as atomic units, but every new compound is just an additional element on the periodic table.
 
