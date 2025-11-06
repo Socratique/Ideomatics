@@ -38,14 +38,6 @@ There will be a more formal/analytical term for idea in the glossary
 
 ---
 
-## Things to do/look into
-- Expand Repo
-- Add Example usage for Glossary
-- Create a list of key concepts/ideas
-- Create rough Outline of The Minimum Ideonomic Kernal
-
----
-
 ## Acknowledgements and Inspirations
 - Pirsigs MOQ  
 - Patrick Gunkels Ideonomy  
