@@ -1,9 +1,15 @@
 ## Glossary
-- **Ideomatics** – The study of Ideas  
-- **Ideatic** – having the property of being an idea/related to ideas  
-- **Ideonome** – The full set of every idea an individual has, including all knowledge/memory/experience.  
-- **Ideon** – an individual focus/entry point/reference to a n idea. Can be considered the phenomenological counterpart to the Signified in Semiotics.  
-- **Ideonic Field** – the ideas most immediately connected/associated with the Ideon in an individual  
-- **Stable Ideon** – An Ideon with sufficient mass in its Ideonic field that is has stable meaning. Relatedly an Unstable Ideon is one which has no or too few connections/associations with other ideas to have meaning. eg. A new word you have been shown no image of or had defined, or something someone has tried to communicate to you  
-- **Idea** – a unit of meaning containing any number of ideas/ideons/ideonomic fields.  
-- **Meta-Stable Ideon/Idea** – an idea for which there is a stable ideon in similar enough forms across multiple individuals to have the same meaning. Could include a meme.
+- **Ideomatics** – The study of ideas.
+- **Idea** – A unit of meaning containing any number of ideas, ideons, and ideonomic fields.
+  - **Ideatic** – Of, relating to, resembling, or capable of producing idea(s).
+- **Ideonome** – The total set of ideas an individual has, including all knowledge, memory, and experience.
+  - **Ideonomic** – Of, relating to, or resembling ideonome(s).
+  - **Ideonomic Stability** - Pertains to how resistant an ideonome is to change.
+  - **Ideonomic Adaptability** - Pertains to how well an ideonome can adapt. This is related to open/close-mindedness
+- **Ideon** – An individual focus/entry point/reference to an idea. Can be considered the phenomenological counterpart to the Signified in Semiotics.
+  - **Ideonic** - Of, relating to, or resembling ideon(s).
+  - **Ideonic Field** – The immediate connected or associated ideas with the ideon in an individual.
+  - **Ideonic Stability** - The state or quality of having many ideatic connections or association; having a strong ideonic field; having high semantic impact.
+    - Conversly, low ideonic stability would describe an ideon with few or no ideatic connections or associations; having a weak or nonexistent ideonomic field; having low semantic impact
+    - e.g., A new word you have been shown no image of or had defined, or something someone has tried to communicate to you.
+- **Ideonic/Ideatic Abundance/Stability** (Ideonomic field?) – Pertains to survivability of an idea or ideon by virtue of abundance
