@@ -5,11 +5,11 @@
 - **Ideonome** – The total set of ideas an individual has, including all knowledge, memory, and experience.
   - **Ideonomic** – Of, relating to, or resembling ideonome(s).
   - **Ideonomic Stability** - Pertains to how resistant an ideonome is to change.
-  - **Ideonomic Adaptability** - Pertains to how well an ideonome can adapt. This is related to open/close-mindedness
+  - **Ideonomic Adaptability** - Pertains to how well an ideonome can adapt. This is related to open/close-mindedness.
 - **Ideon** – An individual focus/entry point/reference to an idea. Can be considered the phenomenological counterpart to the Signified in Semiotics.
   - **Ideonic** - Of, relating to, or resembling ideon(s).
   - **Ideonic Field** – The immediate connected or associated ideas with the ideon in an individual.
-  - **Ideonic Stability** - The state or quality of having many ideatic connections or association; having a strong ideonic field; having high semantic impact.
-    - Conversly, low ideonic stability would describe an ideon with few or no ideatic connections or associations; having a weak or nonexistent ideonomic field; having low semantic impact
+  - **Ideonic Stability** - The state or quality of having many ideatic connections or associations; having a strong ideonic field; having high semiotic impact.
+    - Conversly, low ideonic stability would describe an ideon with few or no ideatic connections or associations; having a weak or nonexistent ideonomic field; having low semiotic impact.
     - e.g., A new word you have been shown no image of or had defined, or something someone has tried to communicate to you.
-- **Ideonic/Ideatic Abundance/Stability** (Ideonomic field?) – Pertains to survivability of an idea or ideon by virtue of abundance
+- **Ideonic/Ideatic Abundance/Stability** (Ideonomic field?) – Pertains to survivability of an idea or ideon by virtue of abundance.
