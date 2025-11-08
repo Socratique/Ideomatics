@@ -12,3 +12,4 @@
   - **Ideonic Stability** - The state or quality of having many ideatic connections or associations; having a strong ideonic field; having high semantic impact.
     - Conversly, low ideonic stability would describe an ideon with few or no ideatic connections or associations; having a weak or nonexistent ideonomic field; having low semantic impact.
     - e.g., A new word you have been shown no image of or had defined, or something someone has tried to communicate to you.
+- **Meta-Stable Ideon/Idea** – an idea for which there is a stable ideon in similar enough forms across multiple individuals to have the same meaning. essentially meme, common knowledge, shared experience, culture, etc. allows for unique transformations/generations/mappings using meta stable ideas to be communicated to others.
