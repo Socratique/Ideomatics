@@ -17,12 +17,17 @@ The Core Goal of Ideomatics is to create a system and tools for better observing
 ---
 
 ## Ideomatics makes some basic assumptions
+
+A list of the current assumptions or premises Ideomatics takes on faith. More may be added if realized.
+These items bay be supported or expanded on to increase validity of claims.
+
 1. Ideas as objects and units of our cognition, even if they are only representations of things-in-themselves we can't really know, are sufficiently practical to be considered 'close enough' as things in themselves.  
 2. That our Cognition having emerged from reality and practical enough to observe and act on reality, is theoretically capable of eventually(even if only through grandly complex ideas) mapping/understanding every part of reality. IE there is a full set of all possible ideas we are capable of constructing into which reality can allow to exist if conditions are sufficient.  
 3. That there is a minimum set of Ideas that one must observe/learn necessary to be capable of constructing and understanding any other idea.(See Minimum Ideonomic Kernal). Similar to/including Kant's Catagories, but with the roughly notion that meaning can only form through use of the catagories in experience.
 4. All, if not most, humans share a universal framework of meaning(idea space). and new discoveries in this space of meaning(generations/transformations) can be communicated, else all of humanity would not be as coherent.
 
-Note: more may be added if realized. Any assumptions can be supported
+#### **On Assumptions and Faith**
+There will always be things we cannot entirely prove or support. We cannot prove or support the validity of our cognition except using it. But to introduce skepticism or doubt onto your cognition is not useful and makes the concepts of skepticism and doubt themselves untrustworthy, or meaningless. So you will always have to take some things on faith, assume they are true, because getting bogged down in supporting or proving them, takes you in a unproductive direction. Later, things taken on faith may become supported or explainable by new discoveries. But the ideas taken on faith will move to the foundations of the new discovery.
 
 ---
 
